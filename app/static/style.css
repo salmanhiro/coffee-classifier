@@ -8,9 +8,11 @@ body {
 
 .center {
     margin: auto;
-    padding: 10px 50px;
+    padding: 10px 30px;
     text-align: center;
-    font-size: 14px;
+    font-size: 18px;
+    font-family: sans-serif;
+    margin-bottom: 2em;
 }
 
 .title {
@@ -21,7 +23,7 @@ body {
 }
 
 .content {
-    margin-top: 10em;
+    margin-top: 4em;
 }
 
 .analyze {
@@ -34,9 +36,9 @@ body {
 }
 
 .result-label {
-    margin-top: 0.5em;
+    margin-top: 2em;
     padding: 10px;
-    font-size: 13px;
+    font-size: 15px;
 }
 
 button.choose-file-button {
